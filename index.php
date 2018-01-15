@@ -35,7 +35,7 @@
 					$('#campo_senha').css({'border-color': '#A94442'});
 					campo_vazio = true;
 				}else{
-					$('#campo_usuario').css({'border-color': '#ccc'});
+					$('#campo_senha
 				}
 
 				if(campo_vazio) return false;
